@@ -1,0 +1,177 @@
+Canada,ca
+East Timor,tp
+Turkmenistan,tm
+Lithuania,lt
+Cambodia,kh
+Ethiopia,et
+Swaziland,sz
+Argentina,ar
+Bolivia,bo
+Cameroon,cm
+Burkina Faso,bf
+Ghana,gh
+Saudi Arabia,sa
+Japan,jp
+Slovenia,si
+Guatemala,gt
+Bosnia and Herzegovina,ba
+Guinea,gn
+Germany,de
+Spain,es
+Liberia,lr
+Netherlands,nl
+Pakistan,pk
+Oman,om
+Zambia,zm
+Greenland,gl
+French Guiana,gf
+New Zealand,nz
+Yemen,ye
+Jamaica,jm
+Albania,al
+Nicaragua,ni
+United Arab Emirates,ae
+Uruguay,uy
+India,in
+Azerbaijan,az
+Lesotho,ls
+Kenya,ke
+Tajikistan,tj
+Turkey,tr
+Afghanistan,af
+Bangladesh,bd
+Mauritania,mr
+Solomon Islands,sb
+Kyrgyzstan,kg
+Mongolia,mn
+France,fr
+Bermuda,bm
+Namibia,na
+Somalia,so
+Peru,pe
+Norway,no
+Malawi,mw
+Benin,bj
+Western Sahara,eh
+Cuba,cu
+Togo,tg
+China,cn
+Armenia,am
+Dominican Republic,do
+Ukraine,ua
+Finland,fi
+Indonesia,id
+Central African Republic,cf
+Sweden,se
+Belarus,by
+Mali,ml
+Bulgaria,bg
+Romania,ro
+Angola,ao
+Portugal,pt
+Trinidad and Tobago,tt
+Cyprus,cy
+Qatar,qa
+Malaysia,my
+Austria,at
+Mozambique,mz
+Uganda,ug
+Hungary,hu
+Niger,ne
+Brazil,br
+Falkland Islands,fk
+Panama,pa
+Costa Rica,cr
+Luxembourg,lu
+Nigeria,ng
+Ecuador,ec
+Czech Republic,cz
+Australia,au
+Iran,ir
+Algeria,dz
+El Salvador,sv
+Chile,cl
+Puerto Rico,pr
+Belgium,be
+Thailand,th
+Haiti,ht
+Belize,bz
+Sierra Leone,sl
+Georgia,ge
+Gambia,gm
+Philippines,ph
+Moldova,Republic of
+Morocco,ma
+Croatia,hr
+Switzerland,ch
+Iraq,iq
+Chad,td
+Estonia,ee
+Mexico,mx
+Lebanon,lb
+South Africa,za
+Uzbekistan,uz
+Tunisia,tn
+Djibouti,dj
+Rwanda,rw
+Colombia,co
+Burundi,bi
+Slovakia,sk
+Fiji,fj
+Madagascar,mg
+Italy,it
+Bhutan,bt
+Sudan,sd
+Nepal,np
+Suriname,sr
+Kuwait,kw
+Israel,il
+Iceland,is
+Venezuela,ve
+Senegal,sn
+Papua New Guinea,pg
+Zimbabwe,zw
+Jordan,jo
+Vanuatu,vu
+Denmark,dk
+Kazakhstan,kz
+Poland,pl
+Eritrea,er
+Ireland,ie
+New Caledonia,nc
+Macedonia,mk
+Paraguay,py
+Latvia,lv
+Guyana,gy
+Honduras,hn
+Myanmar,mm
+Equatorial Guinea,gq
+Egypt,eg
+United Kingdom,gb
+Greece,gr
+Sri Lanka,lk
+Gabon,ga
+Botswana,bw
+United States of America,us
+Republic of Serbia,cs
+South Korea,kr
+North Korea,kp
+Laos,la
+Montenegro,me
+Republic of the Congo,cg
+Democratic Republic of the Congo,cd
+Cyprus,cy
+South Sudan,ss
+Syria,sy
+Libya,ly
+Russia,ru
+Vietnam,vn
+The Bahamas,bs
+Brunei,bn
+Guinea Bissau,gw
+United Republic of Tanzania,tz
+French Southern and Antarctic Lands,aq
+Ivory Coast,ci
+West Bank,n1
+Somaliland,n2
+Kosovo,n3

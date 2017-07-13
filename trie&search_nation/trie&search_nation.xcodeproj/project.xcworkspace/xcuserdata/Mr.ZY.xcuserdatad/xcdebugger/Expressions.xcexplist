@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "Standardized(std::__1::basic_string&lt;char, std::__1::char_traits&lt;char&gt;, std::__1::allocator&lt;char&gt; &gt;):main.cpp">
+         <PersistentStrings>
+            <PersistentString
+               value = "tolower(i)-&apos;a&apos;">
+            </PersistentString>
+            <PersistentString
+               value = "b[0][11]">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "execute(int, int, int, int):main.cpp">
+         <PersistentStrings>
+            <PersistentString
+               value = "s_after">
+            </PersistentString>
+            <PersistentString
+               value = "cou_lower[j][k]">
+            </PersistentString>
+            <PersistentString
+               value = "cou[j][k]">
+            </PersistentString>
+            <PersistentString
+               value = "pos">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "dfs(int):main.cpp">
+         <PersistentStrings>
+            <PersistentString
+               value = "num[94615]">
+            </PersistentString>
+            <PersistentString
+               value = "value">
+            </PersistentString>
+            <PersistentString
+               value = "(int)str[i]">
+            </PersistentString>
+            <PersistentString
+               value = "value_prime">
+            </PersistentString>
+            <PersistentString
+               value = "ou">
+            </PersistentString>
+            <PersistentString
+               value = "num[p]">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "execute(int, int, int):main.cpp">
+         <PersistentStrings>
+            <PersistentString
+               value = "s_after">
+            </PersistentString>
+            <PersistentString
+               value = "cou[73][1]">
+            </PersistentString>
+            <PersistentString
+               value = "rec[i]">
+            </PersistentString>
+            <PersistentString
+               value = "cou[j][k]">
+            </PersistentString>
+            <PersistentString
+               value = "pos">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "extract(std::__1::basic_string&lt;char, std::__1::char_traits&lt;char&gt;, std::__1::allocator&lt;char&gt; &gt;):main.cpp">
+         <PersistentStrings>
+            <PersistentString
+               value = "str[3]">
+            </PersistentString>
+            <PersistentString
+               value = "str.size()">
+            </PersistentString>
+            <PersistentString
+               value = "str[i]">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "main:main.cpp">
+         <PersistentStrings>
+            <PersistentString
+               value = "iii">
+            </PersistentString>
+            <PersistentString
+               value = "pos_comma">
+            </PersistentString>
+            <PersistentString
+               value = "str">
+            </PersistentString>
+            <PersistentString
+               value = "s_1">
+            </PersistentString>
+            <PersistentString
+               value = "s">
+            </PersistentString>
+            <PersistentString
+               value = "str1">
+            </PersistentString>
+            <PersistentString
+               value = "now">
+            </PersistentString>
+            <PersistentString
+               value = "s_2">
+            </PersistentString>
+            <PersistentString
+               value = "tot_rec">
+            </PersistentString>
+            <PersistentString
+               value = "v_count[&quot;fr&quot;]">
+            </PersistentString>
+            <PersistentString
+               value = "i">
+            </PersistentString>
+            <PersistentString
+               value = "s_after">
+            </PersistentString>
+            <PersistentString
+               value = "cou_id[p]">
+            </PersistentString>
+            <PersistentString
+               value = "v_t">
+            </PersistentString>
+            <PersistentString
+               value = "rec[i]">
+            </PersistentString>
+            <PersistentString
+               value = "pos">
+            </PersistentString>
+            <PersistentString
+               value = "str2">
+            </PersistentString>
+            <PersistentString
+               value = "value">
+            </PersistentString>
+            <PersistentString
+               value = "str2.size()">
+            </PersistentString>
+            <PersistentString
+               value = "cou[j][k]">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>

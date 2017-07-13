@@ -1,0 +1,9 @@
+Country,City,AccentCity,Region,Population,Latitude,Longitude
+ad,aixas,Aixàs,06,,42.4833333,1.4666667
+us,huston,Huston,PA,,39.8294,-79.3755556
+us,hus,Huston,PA,,39.8294444,-79.3755556
+us,losss,Huston,PA,,39.8294444,-79.3755556
+fr,ribouisse,Ribouisse,A9,,43.182351,1.897639
+fr,huston,PA,,39.8294,-79.3755556
+
+
